@@ -1,0 +1,230 @@
+[
+  {
+    "text": "The Snow Leopard is found in the Himalayas.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The House Sparrow is commonly seen in urban areas.",
+    "label": "Common"
+  },
+  {
+    "text": "Bengal Tigers are one of the most endangered species in the world.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The One-horned Rhinoceros is a rare sight in the wild.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Asiatic Elephant is found in the forests of Nepal.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The Ganges River Dolphin is an endangered species found in the rivers of Nepal.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The Indian Peafowl, also known as the peacock, is a common sight in rural areas.",
+    "label": "Common"
+  },
+  {
+    "text": "The Red Panda, native to the Eastern Himalayas, is considered endangered due to habitat loss.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The Greater One-horned Rhinoceros, found in the Chitwan National Park, is listed as vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Himalayan Monal, Nepal's national bird, is commonly seen in the higher altitudes.",
+    "label": "Common"
+  },
+  {
+    "text": "The Black Buck, once extinct in Nepal, has been reintroduced and is now considered near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Snow Leopard, elusive and rarely seen, is an endangered species in the Himalayas.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The Spiny Babbler, unique to Nepal, is commonly found in the mid-hill regions.",
+    "label": "Common"
+  },
+  {
+    "text": "The Royal Bengal Tiger, residing in the Terai Arc Landscape, is critically endangered.",
+    "label": "Critically Endangered"
+  },
+  {
+    "text": "The Nepalese Wolf, a rare sight in the wild, is classified as vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Red-crowned Crane, occasionally spotted in the wetlands of Nepal, is endangered.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The Asian Water Buffalo, seen in the Koshi Tappu Wildlife Reserve, is considered endangered.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The Indian Rock Python, inhabiting the Terai region, is listed as vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Pallas's Fish Eagle, found along large rivers and lakes, is near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Wild Yak, found in the high Himalayan region, is considered vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Tibetan Antelope, also known as the Chiru, is endangered due to poaching.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The Smooth-coated Otter, residing in the wetlands, is listed as vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Clouded Leopard, found in dense forests, is considered vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Gharial, a critically endangered crocodilian, inhabits the rivers of Nepal.",
+    "label": "Critically Endangered"
+  },
+  {
+    "text": "The White-rumped Vulture, often seen in open areas, is critically endangered.",
+    "label": "Critically Endangered"
+  },
+  {
+    "text": "The Grey Langur, a common primate in the forests, is listed as least concern.",
+    "label": "Least Concern"
+  },
+  {
+    "text": "The Bengal Fox, commonly found in grasslands, is listed as near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Pangolin, often hunted for its scales, is critically endangered.",
+    "label": "Critically Endangered"
+  },
+  {
+    "text": "The Himalayan Black Bear, found in the mountain forests, is listed as vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Asiatic Wild Dog, or Dhole, is considered endangered in Nepal.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The Blue Sheep, commonly seen in the Himalayas, is listed as least concern.",
+    "label": "Least Concern"
+  },
+  {
+    "text": "The Yellow-throated Marten, a common forest dweller, is listed as least concern.",
+    "label": "Least Concern"
+  },
+  {
+    "text": "The Lesser Adjutant, a large stork found in wetlands, is vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Black-necked Crane, breeding in the high Himalayas, is near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Marbled Cat, a rare sight in the forests, is vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Sarus Crane, the tallest flying bird, is vulnerable due to habitat destruction.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Bengal Monitor Lizard, often seen in forests and grasslands, is least concern.",
+    "label": "Least Concern"
+  },
+  {
+    "text": "The Indian Leopard, found in various habitats, is considered vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Indian Rhinoceros, with its distinctive single horn, is vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Himalayan Griffon, a large vulture, is considered near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Asian Black Bear, native to the forests of Nepal, is vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Hog Deer, found in the Terai region, is listed as endangered.",
+    "label": "Endangered"
+  },
+  {
+    "text": "The Sloth Bear, a nocturnal forest dweller, is vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Jungle Cat, common in the Terai, is least concern.",
+    "label": "Least Concern"
+  },
+  {
+    "text": "The Striped Hyena, a rare carnivore in Nepal, is near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Rhesus Macaque, commonly seen in urban areas, is least concern.",
+    "label": "Least Concern"
+  },
+  {
+    "text": "The Malayan Sun Bear, a rare forest inhabitant, is vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Asiatic Golden Cat, elusive and rarely seen, is near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Indian Pangolin, often hunted for its scales, is critically endangered.",
+    "label": "Critically Endangered"
+  },
+  {
+    "text": "The Large Indian Civet, a nocturnal animal, is listed as near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Indian Crested Porcupine, commonly found in forests and grasslands, is least concern.",
+    "label": "Least Concern"
+  },
+  {
+    "text": "The Indian Bison, or Gaur, is vulnerable due to habitat loss.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The King Cobra, the world's longest venomous snake, is vulnerable.",
+    "label": "Vulnerable"
+  },
+  {
+    "text": "The Tibetan Wolf, found in the high Himalayas, is near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "The Great Hornbill, with its distinctive casque, is near threatened.",
+    "label": "Near Threatened"
+  },
+  {
+    "text": "Dog",
+    "label": "Common"
+  },
+  {
+    "text": "Cat",
+    "label": "Common"
+  }
+]
